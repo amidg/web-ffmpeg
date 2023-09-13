@@ -2,10 +2,10 @@ import os
 import subprocess
 
 # Directory containing the .ass files
-input_directory = "/path/to/your/ass/files/"
+input_directory = "/mnt/backup/Video/Angel Beats/Season 01"
 
 # Output directory for the .srt files
-output_directory = "/path/to/output/"
+output_directory = "/mnt/backup/Video/Angel Beats/Season 11"
 
 # Make sure the output directory exists, create it if not
 if not os.path.exists(output_directory):
